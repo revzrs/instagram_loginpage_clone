@@ -1,0 +1,100 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+.box1
+{   width: 100%;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+    
+}
+.box2
+{
+    position: relative;
+    left: 300px;
+    top: 60px;
+    
+}
+.box3{
+    width: 350px;
+    height: 400px;
+    position: relative;
+    left: 350px;
+    top: 60px;
+    border: 1px solid rgb(205, 205, 205);
+    
+}
+.box4
+{
+    width: 200px;
+    position: relative;
+    left: 80px;
+    top: 40px;
+}
+.box5
+{    width: 270px;
+    height: 100px;
+    position: relative;
+    top: 60px;
+    left: 34px;
+}
+.button
+{   color: white;
+    width: 270px;
+    height:30px ;
+    border-radius: 8px;
+    background-color: #0088ff;
+    border: none;
+    position: relative;
+    left: 3px;
+}
+.box6
+{   
+    width: 300px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}   
+.box7
+{
+    width:300px;
+    height: 30px;
+}
+.box8
+{
+    width: 300px;
+    height: 20px;
+}
+.box9
+{
+    width: 350px;
+    height: 60px;
+    border: 1px solid rgb(205, 205, 205);
+    position: relative;
+    top: 220px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 2%;
+    text-align: center;
+}
+.box10
+{
+    width:350px;
+    height:110px;
+   
+    position: relative;
+    top: 210px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+.n
+{
+    position: relative;
+    bottom: 30px;
+    height: 40px;
+    width: 58%;
+    left: 330px;
+    overflow: hidden;
+}
